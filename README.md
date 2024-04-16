@@ -23,7 +23,7 @@ piechart
 
 ## 🌌⭐☂️ Result ☂️⭐🌌
 - Terlihat bahwa porsi fakultas "Seni dan Desain" dan "Ilmu Komunikasi" menempati porsi terbesar. Angka 0 s/d 5000 yang ditampilkan di luar pie chart menunjukkan rentang jumlah mahasiswa secara akumulatif.
-- 
+  
 ![image](https://github.com/diantyapitaloka/College-Piechart/assets/147487436/03c33c1c-f0b5-4166-8d89-f381dc739881)
 
 - Selanjutnya, kita akan melihat untuk fakultas Bisnis yang menempati porsi pie chart pada angka 0 dan di bawah 1000 (ditunjukkan dengan anak panah merah).
