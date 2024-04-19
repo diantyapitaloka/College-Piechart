@@ -2,6 +2,7 @@
 - Pie chart merupakan chart favorit bagi banyak analis untuk menunjukkan proporsi data. Berdasarkan data frame mahasiswa, jumlah mahasiswa per fakultas adalah kasus proporsi yang dapat ditampilkan dengan pie chart.
 
 ## 🌌⭐☂️ Code ☂️⭐🌌
+- Terlampir code sebagai berikut:
 ```
 library(ggplot2)
 library(openxlsx)
