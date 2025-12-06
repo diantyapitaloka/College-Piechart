@@ -3,6 +3,7 @@
 - Pie chart adalah jenis grafik yang berbentuk lingkaran, di mana setiap “iris” (slice) mewakili proporsi atau persentase dari keseluruhan data. Tujuannya adalah untuk memperlihatkan bagian-bagian dari suatu total sehingga mudah dilihat kontribusi tiap kategori.
 - Selain itu, pie chart sering digunakan dalam laporan bisnis, riset pendidikan, hingga analisis data publik karena bentuknya yang intuitif dan menarik secara visual. Namun, pie chart paling efektif digunakan ketika jumlah kategorinya tidak terlalu banyak (biasanya 4–6 kategori) agar tidak membuat visualisasi menjadi padat dan sulit dibaca. Dengan pemilihan warna yang tepat, pie chart dapat menyampaikan informasi dengan jelas dan tetap enak dilihat.
 - Pie chart juga mampu memberikan gambaran cepat tanpa harus membaca angka secara detail, sehingga cocok digunakan dalam presentasi eksekutif atau laporan yang membutuhkan penyampaian informasi secara ringkas namun tetap informatif.
+- Pie chart dapat dilengkapi dengan label, persentase, atau legenda untuk membantu pembaca memahami nilai setiap kategori. Penggunaan persentase biasanya membuat interpretasi semakin mudah karena langsung menunjukkan kontribusi tiap bagian terhadap total data.
 
 ## 🌌⭐☂️ Code ☂️⭐🌌
 - Terlampir code sebagai berikut:
