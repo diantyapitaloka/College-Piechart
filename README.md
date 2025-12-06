@@ -1,7 +1,7 @@
 ## 🌌⭐☂️ College-Piechart ☂️⭐🌌
 - Pie chart merupakan chart favorit bagi banyak analis untuk menunjukkan proporsi data. Berdasarkan data frame mahasiswa, jumlah mahasiswa per fakultas adalah kasus proporsi yang dapat ditampilkan dengan pie chart.
 - Pie chart adalah jenis grafik yang berbentuk lingkaran, di mana setiap “iris” (slice) mewakili proporsi atau persentase dari keseluruhan data. Tujuannya adalah untuk memperlihatkan bagian-bagian dari suatu total sehingga mudah dilihat kontribusi tiap kategori.
-- Pie chart adalah jenis grafik yang berbentuk lingkaran, di mana setiap “iris” (slice) mewakili proporsi atau persentase dari keseluruhan data. Tujuannya adalah untuk memperlihatkan bagian-bagian dari suatu total sehingga mudah dilihat kontribusi tiap kategori terhadap keseluruhan populasi. Ukuran irisan yang semakin besar menunjukkan jumlah atau porsi yang semakin dominan, sehingga kita dapat langsung mengidentifikasi kategori mana yang memiliki nilai tertinggi maupun terendah.
+- Selain itu, pie chart sering digunakan dalam laporan bisnis, riset pendidikan, hingga analisis data publik karena bentuknya yang intuitif dan menarik secara visual. Namun, pie chart paling efektif digunakan ketika jumlah kategorinya tidak terlalu banyak (biasanya 4–6 kategori) agar tidak membuat visualisasi menjadi padat dan sulit dibaca. Dengan pemilihan warna yang tepat, pie chart dapat menyampaikan informasi dengan jelas dan tetap enak dilihat. 
 
 ## 🌌⭐☂️ Code ☂️⭐🌌
 - Terlampir code sebagai berikut:
