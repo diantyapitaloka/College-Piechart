@@ -8,6 +8,7 @@
 - Best for Limited Categories: Pie charts are most effective when the number of categories is small (ideally 4–6). If there are too many slices, the chart becomes cluttered and difficult to read, defeating its purpose of providing a quick, clear overview.
 - Visual Communication and Conciseness: Their intuitive circular shape makes them visually appealing and suitable for reports (like executive presentations) where information needs to be conveyed concisely and informatively, often supplemented with labels or a legend for clarity.
 - Demonstrates Proportions of a Whole: The fundamental role of a pie chart is to visualize the parts of a total. Each slice represents a clear proportion or percentage of the entire dataset, making the contribution of each category immediately visible.
+- Optimal for Limited Categories: They are most effective when the dataset has a small number of categories (ideally 4–6). Using a pie chart with too many categories can lead to a cluttered and difficult-to-interpret visualization.
 
 
 ## 🌌⭐☂️ Code ☂️⭐🌌
