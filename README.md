@@ -4,6 +4,7 @@
 - In addition, pie charts are often used in business reports, educational research, and public data analysis because of their intuitive and visually appealing shape. However, pie charts are most effective when the number of categories is not too large (usually 4–6 categories) to prevent the visualization from becoming cluttered and difficult to read. With the right color selection, a pie chart can convey information clearly and remain visually pleasing.
 - A pie chart is also capable of providing a quick overview without having to read detailed figures, making it suitable for executive presentations or reports that require conveying information concisely yet informatively.
 - A pie chart can be supplemented with labels, percentages, or a legend to help the reader understand the value of each category. The use of percentages usually makes interpretation easier because it directly shows the contribution of each part to the total data.
+- Showing Proportions and Percentages: A pie chart's core function is to display how different categories contribute to a whole, with each "slice" representing a proportion or percentage of the total data. This makes the contribution of each part easily visible.
 
 
 ## 🌌⭐☂️ Code ☂️⭐🌌
