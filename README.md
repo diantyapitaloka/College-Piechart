@@ -2,6 +2,7 @@
 - The pie chart is a favorite chart for many analysts to show the proportion of data. Based on the student dataframe, the number of students per faculty is a case of proportion that can be displayed with a pie chart.
 - A pie chart is a type of circular graph, where each "slice" represents a proportion or percentage of the whole data. Its purpose is to show the parts of a total so that the contribution of each category is easily visible.
 - In addition, pie charts are often used in business reports, educational research, and public data analysis because of their intuitive and visually appealing shape. However, pie charts are most effective when the number of categories is not too large (usually 4–6 categories) to prevent the visualization from becoming cluttered and difficult to read. With the right color selection, a pie chart can convey information clearly and remain visually pleasing.
+- A pie chart is also capable of providing a quick overview without having to read detailed figures, making it suitable for executive presentations or reports that require conveying information concisely yet informatively.
 
 
 ## 🌌⭐☂️ Code ☂️⭐🌌
