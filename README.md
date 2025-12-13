@@ -5,6 +5,7 @@
 - A pie chart is also capable of providing a quick overview without having to read detailed figures, making it suitable for executive presentations or reports that require conveying information concisely yet informatively.
 - A pie chart can be supplemented with labels, percentages, or a legend to help the reader understand the value of each category. The use of percentages usually makes interpretation easier because it directly shows the contribution of each part to the total data.
 - Showing Proportions and Percentages: A pie chart's core function is to display how different categories contribute to a whole, with each "slice" representing a proportion or percentage of the total data. This makes the contribution of each part easily visible.
+- Best for Limited Categories: Pie charts are most effective when the number of categories is small (ideally 4–6). If there are too many slices, the chart becomes cluttered and difficult to read, defeating its purpose of providing a quick, clear overview.
 
 
 ## 🌌⭐☂️ Code ☂️⭐🌌
