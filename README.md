@@ -11,6 +11,7 @@
 - Optimal for Limited Categories: They are most effective when the dataset has a small number of categories (ideally 4–6). Using a pie chart with too many categories can lead to a cluttered and difficult-to-interpret visualization.
 - Facilitates Quick, Concise Communication: Pie charts are highly valued in business and reports because their intuitive shape allows for a quick overview without needing detailed figures. They are perfect for executive summaries or reports that require conveying information concisely yet informatively.
 - Strategic Starting Point: To enhance readability, the largest slice should typically begin at the 12 o’clock position and progress clockwise. This follows natural eye-tracking patterns and helps the audience immediately identify the most significant category.
+- The Power of Contrast: High-contrast color palettes should be used to differentiate between adjacent slices, especially when categories have similar values. This ensures that the boundaries of each "piece of the pie" are distinct and prevents the data from blending together visually.
 
 
 ## 🌌⭐☂️ Code ☂️⭐🌌
