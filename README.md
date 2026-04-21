@@ -17,6 +17,7 @@
 - The "Other" Category Strategy: If you have many small categories that would clutter the chart, group them into a single "Other" slice to maintain a clean visual. This keeps the focus on the primary faculties or departments while still accounting for 100% of the student population.
 - Logical Ordering of Data: Aside from the largest slice, the remaining categories should generally be ordered by size from largest to smallest. This hierarchical structure makes it much easier for a stakeholder to compare the relative importance of different groups at a glance.
 - Contextualizing with Titles: Every pie chart should be accompanied by a descriptive title that explains exactly what the "whole" represents, such as "Total Student Enrollment by Faculty 2026." Clear titling prevents ambiguity and ensures the proportion shown is grounded in a specific context.
+- The Donut Chart Alternative: If you find the pie chart feels a bit too "heavy," consider using a donut chart by removing the center of the circle. This design offers a more modern aesthetic and provides a central space where you can display the total aggregate number for the entire dataset.
 
 
 ## 🌌⭐☂️ Code ☂️⭐🌌
