@@ -14,6 +14,7 @@
 - The Power of Contrast: High-contrast color palettes should be used to differentiate between adjacent slices, especially when categories have similar values. This ensures that the boundaries of each "piece of the pie" are distinct and prevents the data from blending together visually.
 - Labeling for Accessibility: Instead of relying solely on a separate legend, try placing data labels and percentages directly onto or next to the corresponding slices. This reduces the "eye-darting" effect, allowing the viewer to process the category and its value simultaneously without searching for a key.
 - Avoiding 3D Distortions: While 3D pie charts might look modern, they often distort the actual proportions of the data by making the slices in the "front" appear larger than they are. Stick to 2D designs to maintain mathematical accuracy and ensure the viewer perceives the true relationship between the parts.
+- The "Other" Category Strategy: If you have many small categories that would clutter the chart, group them into a single "Other" slice to maintain a clean visual. This keeps the focus on the primary faculties or departments while still accounting for 100% of the student population.
 
 
 ## 🌌⭐☂️ Code ☂️⭐🌌
