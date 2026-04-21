@@ -10,6 +10,7 @@
 - Demonstrates Proportions of a Whole: The fundamental role of a pie chart is to visualize the parts of a total. Each slice represents a clear proportion or percentage of the entire dataset, making the contribution of each category immediately visible.
 - Optimal for Limited Categories: They are most effective when the dataset has a small number of categories (ideally 4–6). Using a pie chart with too many categories can lead to a cluttered and difficult-to-interpret visualization.
 - Facilitates Quick, Concise Communication: Pie charts are highly valued in business and reports because their intuitive shape allows for a quick overview without needing detailed figures. They are perfect for executive summaries or reports that require conveying information concisely yet informatively.
+- Strategic Starting Point: To enhance readability, the largest slice should typically begin at the 12 o’clock position and progress clockwise. This follows natural eye-tracking patterns and helps the audience immediately identify the most significant category.
 
 
 ## 🌌⭐☂️ Code ☂️⭐🌌
