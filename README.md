@@ -18,6 +18,7 @@
 - Logical Ordering of Data: Aside from the largest slice, the remaining categories should generally be ordered by size from largest to smallest. This hierarchical structure makes it much easier for a stakeholder to compare the relative importance of different groups at a glance.
 - Contextualizing with Titles: Every pie chart should be accompanied by a descriptive title that explains exactly what the "whole" represents, such as "Total Student Enrollment by Faculty 2026." Clear titling prevents ambiguity and ensures the proportion shown is grounded in a specific context.
 - The Donut Chart Alternative: If you find the pie chart feels a bit too "heavy," consider using a donut chart by removing the center of the circle. This design offers a more modern aesthetic and provides a central space where you can display the total aggregate number for the entire dataset.
+- Mindful Use of Whitespace: Incorporating thin white borders between slices can significantly improve the clarity of the chart, especially when using a similar color gradient. This small design choice prevents the sections from bleeding into one another, making the proportional breakdown look professional and sharp.
 
 
 ## 🌌⭐☂️ Code ☂️⭐🌌
