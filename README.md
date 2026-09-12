@@ -53,7 +53,7 @@
 
 
 ## 🌌⭐☂️ Code ☂️⭐🌌
-- Terlampir code sebagai berikut:
+- Please see the code below :
 ```
 library(ggplot2)
 library(openxlsx)
